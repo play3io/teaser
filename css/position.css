@@ -1,0 +1,268 @@
+/* ==========================
+          Positioning 
+============================ */
+.objects-wrap .tree01-wrap{
+  transform: translate(-504%, -256%);
+}
+.objects-wrap .tree02-wrap{
+  transform: translate(-541%, -91%);
+}
+.objects-wrap .tree03-wrap{
+  transform: translate(-431%, -70%);
+}
+.objects-wrap .tree05-wrap{
+  transform: translate(-551%, -24%);
+}
+.objects-wrap .tree06-wrap{
+  transform: translate(-384%, -15%);
+}
+.objects-wrap .tree04-wrap{
+  transform: translate(-920%, -60%);
+}
+.objects-wrap .tree07-wrap{
+  transform: translate(-464%, 1%);
+}
+.objects-wrap .tree08-wrap{
+  transform: translate(-536%, 46%);
+}
+.objects-wrap .mushroom-wrap.mushroom01{
+  transform: translate(-1822%, 355%);
+}
+.objects-wrap .mushroom-wrap.mushroom02{
+  transform: translate(-1565%, 917%);
+}
+.objects-wrap .log-wrap{
+  transform: translate(-836%, 154%);
+}
+.objects-wrap .flowers-wrap.flowers01{
+  transform: translate(-1651%, 398%);
+}
+.objects-wrap .flowers-wrap.flowers02{
+  transform: translate(-824%, 667%);
+}
+.objects-wrap .flowers-wrap.flowers03{
+  transform: translate(-997%, -656%);
+}
+.objects-wrap .grass-wrap.grass01{
+  transform: translate(-1759%, 620%);
+}
+.objects-wrap .grass-wrap.grass02{
+  transform: translate(-1000%, -815%);
+}
+.objects-wrap .campfire-wrap{
+  transform: translate(-794%, 460%);
+}
+.objects-wrap .sign-wrap.sign01{
+  transform: translate(-1265%, 330%);
+}
+.objects-wrap .sign-wrap.sign02{
+  transform: translate(693%, 321%);
+}
+.objects-wrap .rama-wrap.rama01{
+  transform: translate(273%, 267%);
+}
+.objects-wrap .rama-wrap.rama02{
+  transform: translate(861%, -168%);
+}
+.objects-wrap .rama-t02{
+  transform: translate(833%, -136%);
+}
+.objects-wrap .rama02-t02{
+  transform: translate(188%, 205%);
+}
+.objects-wrap .car-wrap{
+  transform: translate(191%, -240%);
+}
+.vending_machine-wrap{
+  transform: translate(295%, 39%);
+}
+.board-wrap{
+  transform: translate(329%, -95%);
+}
+.goodframe-wrap{
+  transform: translate(780%, -61%);
+}
+.redbox-wrap{
+  transform: translate(1125%, -47%);
+}
+.pot-wrap{
+  transform: translate(1402%, 0%);
+}
+
+.objects-wrap .character09-wrap{
+  transform: translate(278%, -271%);
+}
+.objects-wrap .character10_01{
+  transform: translate(-788%, -134%);
+}
+.objects-wrap .character08-wrap{
+  transform: translate(-122%, 56%);
+}
+.objects-wrap .character07-wrap{
+  transform: translate(-556%, -115%);
+}
+.objects-wrap .character05_01{
+  transform: translate(-492%, -115%);
+}
+.objects-wrap .character05_02{
+  transform: translate(-318%, 71%);
+}
+.objects-wrap .character05_03{
+  transform: translate(-884%, 314%);
+}
+.objects-wrap .character05_04{
+  transform: translate(178%, -210%);
+}
+.objects-wrap .character05_05{
+  transform: translate(264%, 17%);
+}
+.objects-wrap .character05_06{
+  transform: translate(748%, 14%);
+}
+.objects-wrap .character05_07{
+  transform: translate(644%, 236%);
+}
+.objects-wrap .store-wrap{
+  transform: translate(-217%, -22%);
+}
+.objects-wrap .character06-wrap{
+  transform: translate(-552%, 52%);
+}
+.objects-wrap .character04_01{
+  transform: translate(395%, -9%);
+}
+.objects-wrap .character04_02{
+  transform: translate(-245%, -36%);
+}
+.objects-wrap .character04_03{
+  transform: translate(-423%, 179%);
+}
+.objects-wrap .character03_03{
+  transform: translate(1323%, 54%);
+}
+.objects-wrap .character02_01{
+  transform: translate(1023%, 275%);
+}
+.objects-wrap .character02_04{
+  transform: translate(-151%, -199%);
+}
+.objects-wrap .character01_03{
+  transform: translate(344%, 120%);
+}
+.objects-wrap .character11_01{
+  transform: translate(-668%, 81%);
+}
+.objects-wrap .character11_mv{
+  transform: translate(-862%, 123%);
+}
+.objects-wrap .character12_01{
+  transform: translate(-435%, 112%);
+}
+.objects-wrap .character12_mv{
+  transform: translate(-353%, 107%);
+}
+.objects-wrap .character13_01{
+  transform: translate(-276%, -83%);
+}
+.objects-wrap .character13_mv{
+  transform: translate(-240%, -83%);
+}
+.objects-wrap .character14_01{
+  transform: translate(-207%, -161%);
+}
+.objects-wrap .character14_mv{
+  transform: translate(-191%, -172%);
+}
+.objects-wrap .character15_01{
+  transform: translate(20%, -160%);
+}
+.objects-wrap .character15_mv{
+  transform: translate(53%, -171%);
+}
+.objects-wrap .character16_01{
+  transform: translate(162%, -115%);
+}
+.objects-wrap .character16_mv{
+  transform: translate(231%, -111%);
+}
+.objects-wrap .character17_01{
+  transform: translate(138%, 45%);
+}
+.objects-wrap .character17_mv{
+  transform: translate(117%, 45%);
+}
+.objects-wrap .character18_01{
+  transform: translate(24%, 104%);
+}
+.objects-wrap .character18_mv{
+  transform: translate(30%, 129%);
+}
+.objects-wrap .character19_01{
+  transform: translate(624%, -54%);
+}
+.objects-wrap .character19_mv{
+  transform: translate(625%, -45%);
+}
+.objects-wrap .character14_02{
+  transform: translate(684%, 77%);
+}
+.objects-wrap .character14_mv02{
+  transform: translate(845%, 121%);
+}
+.objects-wrap .character11_02{
+  transform: translate(506%, 65%);
+}
+.objects-wrap .character11_mv02{
+  transform: translate(704%, 105%);
+}
+.objects-wrap .emotion-laugh{
+  transform: translate(-1735%, 175%);
+}
+.objects-wrap .emotion_tear{
+  transform: translate(-1560%, 486%)
+}
+.objects-wrap .emotion_shame{
+  transform: translate(-974%, 42%);
+}
+.objects-wrap .emotion_angry{
+  transform: translate(-736%, 256%);
+}
+.objects-wrap .emotion_exclamation{
+  transform: translate(-636%, -256%);
+}
+.objects-wrap .emotion_nowords{
+  transform: translate(365%, -463%);
+}
+.objects-wrap .emotion_mindless{
+  transform: translate(744%, -120%);
+}
+.objects-wrap .emotion_puzzle{
+  transform: translate(576%, 220%);
+}
+.objects-wrap .emotion_sweat{
+  transform: translate(1400%, -53%);
+}
+.objects-wrap .emotion_nowords02{
+  transform: translate(1657%, 397%);
+}
+.objects-wrap .emotion_love{
+  transform: translate(1139%, -596%);
+}
+.objects-wrap .emotion_hi.hi01{
+  transform: translate(-766%, -238%);
+}
+.objects-wrap .emotion_sweat02{
+  transform: translate(-540%, 37%);
+}
+.objects-wrap .emotion_love02{
+  transform: translate(-215%, -458%);
+}
+.objects-wrap .emotion_tear02{
+  transform: translate(515%, -58%);
+}
+.objects-wrap .emotion_hi.hi02{
+  transform: translate(744%, 225%);
+}
+.objects-wrap .speech01{
+  transform: translate(-81%, 35%);
+}

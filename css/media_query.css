@@ -1,0 +1,120 @@
+/* 1920px */
+@media only screen and (min-width:120em) {
+}
+/* 1536px */
+@media only screen and (min-width:96em) {
+  
+}
+/* 1392px */
+@media only screen and (max-width:87em) {
+  section{
+    overflow-x: scroll;
+  }
+  .contents-wrap{
+    width: 1900px;
+  }
+}
+@media only screen and (min-width:48em) {
+  .speech-wrap p{
+    font-size: 0.875rem;
+  }
+}
+
+@media only screen and (max-width:62.5em) {
+  .contents-wrap{
+    min-width: 1280px;
+  }
+  .logo-set-wrap .logo {
+    width: 58%;
+  }
+  .button-set-wrap,
+  .logo-set-wrap .logo{
+    position:fixed;
+  }
+  .objects-wrap{
+    overflow: hidden;
+  }
+  .speech-wrap p{
+    font-size: 0.625rem;
+  }
+  .speech-wrap img {
+    width: 16px !important;
+    bottom: -23%;
+  }
+
+}
+@media only screen and (max-width:48em) {
+  section {
+    overflow-y: hidden;
+  }
+  .logo-set-wrap .logo{
+    width: 380px;
+  }
+  .speech-wrap p{
+    font-size: 0.875rem;
+  }
+  .speech-wrap img{
+    width: 16.89px !important;
+    bottom: -40%;
+  }
+  .objects-wrap{
+    overflow: hidden;
+  }
+  footer p {
+    font-size: 0.75rem;
+  }
+  .warning-wrap{
+    width: 320px;
+  }
+  .logo-set-wrap .logo img {
+    filter: drop-shadow(0 0 0.5rem #000);
+  }
+}
+/* 화면 비율 조정 */
+@media only screen and (max-height:913px) and (min-height:704px) and (max-width: 1855px) and (min-width:1392px){
+  section{
+    overflow: auto;
+  }
+  .contents-wrap{
+    width: 1920px;
+  }
+}
+@media only screen and (min-height:932px) and (max-width: 1280px){
+  section{
+    overflow-x: scroll;
+  }
+  .contents-wrap{
+    width: 2800px;
+  }
+  .button-set-wrap,
+  .logo-set-wrap .logo{
+    position:fixed;
+  }
+  .objects-wrap{
+    overflow: hidden;
+  }
+  .button-set-wrap button, .button-set-wrap a {
+    height: 3.5rem;
+    line-height: 3.5rem;
+    border-radius: 2rem;
+  }
+}
+@media only screen and (max-height:932px) and (max-width: 1280px) {
+  .contents-wrap{
+    width: 1900px;
+  }
+  .button-set-wrap,
+  .logo-set-wrap .deco,
+  .logo-set-wrap .text,
+  .logo-set-wrap .logo{
+    position:fixed;
+  }
+  .objects-wrap{
+    overflow: hidden;
+  }
+}
+@media only screen and (max-height:700px) {
+  .contents-wrap{
+    width: 1700px;
+  }
+}
