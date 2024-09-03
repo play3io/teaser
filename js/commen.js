@@ -62,25 +62,25 @@ document.addEventListener('DOMContentLoaded', () => {
       warningDiv.style.display = 'none'; // 경고 메시지 숨기기
   });
 
-  // Learn More 팝업창
-  const popupLearnBtn = document.getElementById('popup-learn');
-  const popupWrap = document.querySelector('.popup-wrap');
-  const btnClose = document.querySelector('.btn-close');
-  const btnOk = document.querySelector('.btn-ok');
+  // // Learn More 팝업창
+  // const popupLearnBtn = document.getElementById('popup-learn');
+  // const popupWrap = document.querySelector('.popup-wrap');
+  // const btnClose = document.querySelector('.btn-close');
+  // const btnOk = document.querySelector('.btn-ok');
 
-  // 팝업 열기
-  popupLearnBtn.addEventListener('click', () => {
-      popupWrap.style.display = 'flex'; // 팝업을 보이게 함
-  });
+  // // 팝업 열기
+  // popupLearnBtn.addEventListener('click', () => {
+  //     popupWrap.style.display = 'flex'; // 팝업을 보이게 함
+  // });
 
-  // 팝업 닫기
-  function closePopup() {
-      popupWrap.style.display = 'none'; // 팝업을 숨김
-  }
+  // // 팝업 닫기
+  // function closePopup() {
+  //     popupWrap.style.display = 'none'; // 팝업을 숨김
+  // }
 
-  // 닫기 버튼과 확인 버튼 클릭 시 팝업 닫기
-  btnClose.addEventListener('click', closePopup);
-  btnOk.addEventListener('click', closePopup);
+  // // 닫기 버튼과 확인 버튼 클릭 시 팝업 닫기
+  // btnClose.addEventListener('click', closePopup);
+  // btnOk.addEventListener('click', closePopup);
 
   // 케릭터 제어
    // 모든 basic_form 요소 선택
