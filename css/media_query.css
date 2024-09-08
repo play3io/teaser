@@ -1,5 +1,37 @@
 /* 1920px */
-@media only screen and (min-width:120em) {
+@media only screen and (min-width:1920px) and (min-height:920px) {
+  section {
+    overflow-y: hidden;
+  }
+  .contents-wrap {
+    width: 125%;
+  }
+  .button-set-wrap {
+    bottom: 150px;
+  }
+  .button-set-wrap button, .button-set-wrap a {
+    font-size: 1.75rem;
+    width: 24rem;
+    height: 4rem;
+    line-height: 4rem;
+    border-radius: 3rem;
+  }
+}
+@media only screen and (min-width:1920px) and (min-height:1200px) {
+  section {
+    overflow-y: hidden;
+  }
+  .contents-wrap {
+    width: 130%;
+  }
+}
+@media only screen and (min-width:2240px) and (min-height:1400px) {
+  section {
+    overflow-y: hidden;
+  }
+  .contents-wrap {
+    width: 140%;
+  }
 }
 /* 1536px */
 @media only screen and (min-width:96em) {
