@@ -99,14 +99,3 @@ document.addEventListener("DOMContentLoaded", function () {
     /*===================== mobile END =====================*/
 
 });
-
-
-
-
-
-
-
-
-
-
-
