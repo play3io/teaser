@@ -137,7 +137,9 @@ button{
 .button-set-wrap a{
   position: relative;
   display: inline-block;
-  background-color: #FFDD3C;
+  color: #fff;
+  background-color: #0037FF;
+  /* background-color: #FFDD3C; */
   /* margin-bottom: 1.25rem; */
   transition: 0.3s;
 }
