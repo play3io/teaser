@@ -134,7 +134,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   // 텍스트 말풍선
-  let wordArr = ['See you on December 19th at 8 AM (UTC)!', 'Something exciting is on the horizon.', 'See you soon!'];
+  let wordArr = ['Hang in there, we’ll meet soon!', 'Something exciting is on the horizon.', 'See you real soon!'];
   let classNm = 'chracter_word_balloon'
   let periodicTime = 3000;
   let date = '2024/09/10';
