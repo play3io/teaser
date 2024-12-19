@@ -134,7 +134,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
   // 텍스트 말풍선
-  let wordArr = ['Hi guys!', 'Nice to meet you.', 'Welcome to PLAY3 🙌', 'I hope we can meet here soon.', 'Hang in there, we’ll meet soon!', 'See you here soon!', 'Ready to play web3?', 'Look forward to seeing you here.'];
+  let wordArr = ['See you on December 19th at 8 AM (UTC)!', 'Something exciting is on the horizon.', 'See you soon!'];
   let classNm = 'chracter_word_balloon'
   let periodicTime = 3000;
   let date = '2024/09/10';
